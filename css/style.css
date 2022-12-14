@@ -1843,7 +1843,6 @@ a:hover, span:hover {
 }
 
 .navbar .logo {
-  margin-top: 50px;
   width: 249px;
 }
 
@@ -1888,8 +1887,7 @@ a:hover, span:hover {
 }
 
 .topnav .logo {
-  margin-top: 50px;
-  width: 249px;
+  width: 180px;
 }
 
 .topnav .menu-icon {
@@ -2253,8 +2251,8 @@ a:hover, span:hover {
 }
 
 .slider .parallax-slider .swiper-slide-active .caption h1[data-splitting] .char {
-  -webkit-animation: fadeInUp 01s cubic-bezier(0.3, 0, 0.7, 1) both;
-  animation: fadeInUp 01s cubic-bezier(0.3, 0, 0.7, 1) both;
+  -webkit-animation: fadeInUp 0.5s cubic-bezier(0.3, 0, 0.7, 1) both;
+  animation: fadeInUp 0.5s cubic-bezier(0.3, 0, 0.7, 1) both;
   -webkit-animation-delay: calc(60ms * var(--char-index));
   animation-delay: calc(60ms * var(--char-index));
 }
@@ -7967,7 +7965,6 @@ footer .item .copy-right p a {
     margin: 10px auto !important;
   }
   .navbar .logo {
-    margin-top: 50px;
     margin-left: 15px;
     width: 249px;
   }
@@ -8270,8 +8267,7 @@ footer .item .copy-right p a {
     bottom: 15px;
   }
   .navbar .logo {
-    margin-top: 50px;
-    width: 230px;
+    width: 180px;
   }
   .hamenu .menu-links .main-menu > li {
     font-size: 24px;
@@ -8283,7 +8279,6 @@ footer .item .copy-right p a {
     padding: 0 30px;
   }
   .topnav .logo {
-    margin-top: 50px;
     width: 230px;
   }
   .btn-curve {
@@ -8706,4 +8701,3 @@ footer .item .copy-right p a {
 }
 
 /* ====================== [ End Responsive ] ====================== */
-
