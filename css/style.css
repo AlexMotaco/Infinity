@@ -1843,6 +1843,7 @@ a:hover, span:hover {
 }
 
 .navbar .logo {
+  margin-top: 50px;
   width: 249px;
 }
 
@@ -1887,6 +1888,7 @@ a:hover, span:hover {
 }
 
 .topnav .logo {
+  margin-top: 50px;
   width: 249px;
 }
 
@@ -7965,6 +7967,7 @@ footer .item .copy-right p a {
     margin: 10px auto !important;
   }
   .navbar .logo {
+    margin-top: 50px;
     margin-left: 15px;
     width: 249px;
   }
@@ -8267,6 +8270,7 @@ footer .item .copy-right p a {
     bottom: 15px;
   }
   .navbar .logo {
+    margin-top: 50px;
     width: 230px;
   }
   .hamenu .menu-links .main-menu > li {
@@ -8279,6 +8283,7 @@ footer .item .copy-right p a {
     padding: 0 30px;
   }
   .topnav .logo {
+    margin-top: 50px;
     width: 230px;
   }
   .btn-curve {
@@ -8701,3 +8706,4 @@ footer .item .copy-right p a {
 }
 
 /* ====================== [ End Responsive ] ====================== */
+
