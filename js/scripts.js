@@ -156,7 +156,7 @@ $(function () {
                     $(swiper.slides[i])
                         .find('.bg-img')
                         .attr({
-                            'data-swiper-parallax': 1 * swiper.width
+                            'data-swiper-parallax': 0.75 * swiper.width
                         });
                 }
             },
@@ -193,7 +193,7 @@ $(function () {
                     $(swiper.slides[i])
                         .find('.bg-img')
                         .attr({
-                            'data-swiper-parallax': 1 * swiper.width
+                            'data-swiper-parallax': 0.75 * swiper.width
                         });
                 }
             },
@@ -230,7 +230,7 @@ $(function () {
                     $(swiper.slides[i])
                         .find('.bg-img')
                         .attr({
-                            'data-swiper-parallax': 1 * swiper.width
+                            'data-swiper-parallax': 0.75 * swiper.width
                         });
                 }
             },
