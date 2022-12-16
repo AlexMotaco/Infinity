@@ -471,7 +471,7 @@ $(function () {
             value: myVal,
             thickness: 2,
             size: 110,
-            fill: { color: "rgb(18, 194, 233)" }
+            fill: { color: "rgb(16, 170, 22)" }
         });
 
     });
