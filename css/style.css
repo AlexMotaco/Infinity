@@ -253,7 +253,7 @@ a:hover, span:hover {
 }
 
 .sub-bg {
-  background: #111215;
+  background: #111215 !important;
 }
 
 .bg-img {
