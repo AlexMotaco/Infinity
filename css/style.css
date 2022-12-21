@@ -275,6 +275,10 @@ a:hover, span:hover {
 }
 
 .section-padding {
+  padding: 120px 0;
+}
+
+.section-padding-2 {
   padding: 60px 0;
 }
 
