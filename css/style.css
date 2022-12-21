@@ -4243,7 +4243,7 @@ a:hover, span:hover {
 /* ====================== [ End Intro ] ====================== */
 /* ====================== [ Start services ] ====================== */
 .row {
- margin-bottom: 15px;
+ padding-bottom: 15px;
 }
 
 .services {
