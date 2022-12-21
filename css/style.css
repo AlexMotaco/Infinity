@@ -275,7 +275,7 @@ a:hover, span:hover {
 }
 
 .section-padding {
-  padding: 120px 0;
+  padding: 60px 0;
 }
 
 .section-ptb {
@@ -4242,7 +4242,7 @@ a:hover, span:hover {
 
 /* ====================== [ End Intro ] ====================== */
 /* ====================== [ Start services ] ====================== */
-.about-us section-padding .container .row justify-content-center .row {
+.service-row section-padding {
  padding-bottom: 15px;
  padding-top: 15px;
 }
